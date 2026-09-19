@@ -2,7 +2,7 @@
 
 ### § 39
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Činnosť ministerstiev prostredníctvom ministrov a činnosť ostatných ústredných orgánov štátnej správy prostredníctvom ich štatutárnych orgánov riadi, koordinuje a kontroluje vláda.
 >
 > (2) Vláda schvaľuje
@@ -27,7 +27,7 @@ Odsek 4 napokon určuje sídlo ministerstiev a ostatných ústredných orgánov 
 
 ### § 40
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Platové náležitosti
 >
 > (1) Plat, funkčné príplatky, paušálne náhrady a ďalšie náležitosti členov vlády určuje vláda podľa osobitného predpisu.4)
@@ -46,7 +46,7 @@ Odsek 3 upravuje osobitné postavenie vedúceho Úradu vlády Slovenskej republi
 
 ### § 40a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Zrušuje sa Ministerstvo pre správu a privatizáciu národného majetku Slovenskej republiky a pôsobnosť tohto ministerstva podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo hospodárstva Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo pre správu a privatizáciu národného majetku Slovenskej republiky" vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo hospodárstva Slovenskej republiky" v príslušnom gramatickom tvare.
@@ -63,7 +63,7 @@ Odsek 3 potom upravuje konkrétne dôsledky zrušenia orgánu vo vzťahu k tret�
 
 ### § 40b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) V súvislosti s prechodom kompetencií vo vodnom hospodárstve prechádzajú 1. mája 2003 práva a povinnosti vyplývajúce z pracovnoprávnych a iných právnych vzťahov zamestnancov zabezpečujúcich výkon týchto kompetencií z Ministerstva pôdohospodárstva Slovenskej republiky na Ministerstvo životného prostredia Slovenskej republiky. Majetok štátu, ktorý bol 30. apríla 2003 v správe Ministerstva pôdohospodárstva Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencií vo vodnom hospodárstve, prechádza 1. mája 2003 do správy Ministerstva životného prostredia Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom pôdohospodárstva Slovenskej republiky a Ministerstvom životného prostredia Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
 >
 > (2) V súvislosti s prechodom kompetencií v oblasti územného plánovania a stavebného poriadku prechádzajú 1. mája 2003 práva a povinnosti vyplývajúce z pracovnoprávnych a iných právnych vzťahov zamestnancov zabezpečujúcich výkon týchto kompetencií z Ministerstva životného prostredia Slovenskej republiky na Ministerstvo výstavby a regionálneho rozvoja Slovenskej republiky. Majetok štátu, ktorý bol 30. apríla 2003 v správe Ministerstva životného prostredia Slovenskej republiky a ktorý slúži na zabezpečenie výkonu kompetencií v oblasti územného plánovania a stavebného poriadku, prechádza 1. mája 2003 do správy Ministerstva výstavby a regionálneho rozvoja Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodou medzi Ministerstvom životného prostredia Slovenskej republiky a Ministerstvom výstavby a regionálneho rozvoja Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
@@ -84,7 +84,7 @@ Odsek 5 dopĺňa dôležitý všeobecný mechanizmus, ktorý presahuje rámec š
 
 ### § 40c
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Zrušuje sa Úrad pre štátnu službu.
 >
 > (2) Dňom zrušenia Úradu pre štátnu službu prechádzajú práva a povinnosti Úradu pre štátnu službu vrátane práv a povinností zo štátnozamestnaneckých pomerov a pracovnoprávnych vzťahov zamestnancov na Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky.
@@ -101,7 +101,7 @@ Odsek 3 rieši osobitnú organizačnú situáciu, ktorá vznikla tým, že agend
 
 ### § 40d
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva výstavby a regionálneho rozvoja Slovenskej republiky podľa doterajších všeobecne záväzných právnych predpisov prechádza na
 >
 > a) Ministerstvo hospodárstva a výstavby Slovenskej republiky v oblasti stavebnej výroby a stavebných výrobkov, v oblasti tvorby a uskutočňovania bytovej politiky a v oblasti poskytovania štátnej prémie k stavebnému sporeniu,
@@ -132,7 +132,7 @@ Odseky 3 až 6 potom rozvádzajú štandardnú trojzložkovú štruktúru (prech
 
 ### § 40e
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva životného prostredia Slovenskej republiky podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo životného prostredia Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky“ v príslušnom gramatickom tvare.
@@ -147,7 +147,7 @@ Táto reorganizácia dokumentuje typický cyklický charakter organizačných zm
 
 ### § 40f
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva hospodárstva Slovenskej republiky v oblasti cestovného ruchu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo kultúry a cestovného ruchu Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo hospodárstva Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo kultúry a cestovného ruchu Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť cestovného ruchu.
@@ -162,7 +162,7 @@ Na rozdiel od § 40e, kde prechádzala celá pôsobnosť ministerstva, tu ide op
 
 ### § 40g
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo školstva Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky“ v príslušnom gramatickom tvare.
 
 Ustanovenie § 40g predstavuje najjednoduchší typ prechodného ustanovenia v tejto kapitole – obsahuje výlučne legislatívnu skratku bez sprievodných ustanovení o prechode práv, povinností alebo majetku. Dôvodom je, že v tomto prípade nedochádza k faktickému prechodu pôsobnosti medzi dvoma odlišnými orgánmi (teda nezaniká jeden orgán v prospech iného), ale iba k rozšíreniu názvu toho istého ministerstva o ďalšie oblasti jeho pôsobnosti – „Ministerstvo školstva Slovenskej republiky" sa premenováva na „Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky", pričom ide o ten istý právny subjekt s tou istou právnou subjektivitou, len s rozšíreným a presnejšie vymedzeným portfóliom agend (veda, výskum a šport popri tradičnej školskej agende).
@@ -171,7 +171,7 @@ Práve preto zákon nepotrebuje riešiť prechod zamestnancov, majetku ani zria�
 
 ### § 40h
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podrobnosti o prechode práv a povinností a o prechode správy majetku štátu podľa § 40d ods. 3 až 6, § 40e ods. 3 a § 40f ods. 3 sa upravia dohodou, v ktorej sa určí najmä druh a rozsah preberaného majetku, práv a povinností.
 
 Ustanovenie § 40h plní zjednocujúcu (sumarizačnú) funkciu vo vzťahu k trom predchádzajúcim paragrafom – § 40d, § 40e a § 40f – ktoré boli súčasťou tej istej legislatívnej vlny reorganizácie účinnej od 1. júla 2010. Namiesto toho, aby zákon pri každom jednotlivom prechode kompetencie v rámci § 40d až § 40f opakovane a samostatne odkazoval na potrebu uzavrieť dohodu o podrobnostiach (hoci, ako bolo vidieť vyššie, práve toto vo väčšine prípadov aj robí), § 40h tento odkaz zhŕňa a explicitne potvrdzuje spoločný mechanizmus vysporiadania pre všetky tri reorganizácie naraz.
@@ -180,7 +180,7 @@ Prakticky ide o ustanovenie s obmedzeným normatívnym prínosom nad rámec toho
 
 ### § 40i
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky v oblasti tvorby a ochrany životného prostredia vrátane ochrany prírody a krajiny, vodného hospodárstva, ochrany pred povodňami, ochrany akosti a množstva vôd a ich racionálneho využívania a rybárstva okrem akvakultúry a morského rybolovu, v oblasti ochrany ovzdušia, ozónovej vrstvy a klimatického systému Zeme, ekologických aspektov územného plánovania, odpadového hospodárstva, posudzovania vplyvov na životné prostredie, zabezpečovania jednotného informačného systému o životnom prostredí a plošného monitoringu, geologického výskumu a prieskumu, ochrany a regulácie obchodu s ohrozenými druhmi voľne žijúcich živočíchov a voľne rastúcich rastlín, geneticky modifikovaných organizmov podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo životného prostredia Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo pôdohospodárstva, životného prostredia a regionálneho rozvoja Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa § 9 a „Ministerstvo životného prostredia Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa § 16.
@@ -195,7 +195,7 @@ Odsek 2 zavádza dvojitú legislatívnu skratku odkazujúcu na dva odlišné par
 
 ### § 40j
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva hospodárstva Slovenskej republiky v oblasti zahraničného obchodu v časti riadenia obchodno-ekonomických oddelení podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo zahraničných vecí Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo hospodárstva Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo zahraničných vecí Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -208,7 +208,7 @@ Formulácia odseku 1 je pozoruhodná tým, že hovorí o prechode pôsobnosti �
 
 ### § 40k
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva hospodárstva a výstavby Slovenskej republiky v oblasti stavebnej výroby a stavebných výrobkov, tvorby a uskutočňovania bytovej politiky a poskytovania štátnej prémie k stavebnému sporeniu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo hospodárstva a výstavby Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasti podľa odseku 1.
@@ -221,7 +221,7 @@ Ustanovenie § 40k dokresľuje ďalšiu etapu preskupovania kompetencií súvisi
 
 ### § 40l
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva vnútra Slovenskej republiky v oblasti verejných prác, stavebného poriadku a územného plánovania okrem ekologických aspektov podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo vnútra Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasti podľa odseku 1.
@@ -234,7 +234,7 @@ Text ustanovenia je štruktúrovaný identicky ako § 40k – vecné vymedzenie 
 
 ### § 40m
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva obrany Slovenskej republiky v oblasti obchodovania s vojenským materiálom podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo hospodárstva Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo obrany Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo hospodárstva Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -245,7 +245,7 @@ Na rozdiel od väčšiny predchádzajúcich ustanovení § 40m neobsahuje samost
 
 ### § 40n
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva kultúry a cestovného ruchu Slovenskej republiky v oblasti podpory kultúry národnostných menšín podľa doterajších všeobecne záväzných právnych predpisov prechádza na podpredsedu vlády, ktorý neriadi ministerstvo.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo kultúry a cestovného ruchu Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „podpredseda vlády, ktorý neriadi ministerstvo“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -258,7 +258,7 @@ Odsek 2 formuluje legislatívnu skratku netypickým spôsobom – namiesto odkaz
 
 ### § 40o
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva kultúry a cestovného ruchu Slovenskej republiky v oblasti cestovného ruchu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo kultúry a cestovného ruchu Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -271,7 +271,7 @@ Zaradenie cestovného ruchu pod dopravno-výstavbársky rezort namiesto návratu
 
 ### § 40p
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti koordinácie realizácie politík Európskej únie podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo zahraničných vecí Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Úrad vlády Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo zahraničných vecí Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -284,7 +284,7 @@ Odsek 1 je formulovaný ako presun pôsobnosti Úradu vlády (nie ministerstva) 
 
 ### § 40q
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti koordinácie využívania finančných prostriedkov z fondov Európskej únie podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Úrad vlády Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -297,7 +297,7 @@ Na rozdiel od väčšiny ostatných paragrafov jesennej vlny reorganizácie z ro
 
 ### § 40r
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo hospodárstva a výstavby Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo hospodárstva Slovenskej republiky“ v príslušnom gramatickom tvare.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo dopravy, pôšt a telekomunikácií Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ v príslušnom gramatickom tvare.
@@ -312,7 +312,7 @@ Spoločným menovateľom všetkých troch odsekov je, že ide o tzv. „upratova
 
 ### § 40s
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) V súvislosti s prechodom kompetencií v oblasti podľa § 40k ods. 1, § 40l ods. 1, § 40n ods. 1, § 40o ods. 1 a § 40p ods. 1 medzi ústrednými orgánmi štátnej správy prechádza i zriaďovateľská a zakladateľská pôsobnosť doterajšieho ústredného orgánu štátnej správy k právnickým osobám na preberajúci ústredný orgán štátnej správy. Zmeny v zriaďovateľskej a zakladateľskej pôsobnosti sa vykonajú na základe tohto zákona podľa osobitných predpisov.6) Podrobnosti o prechode správy majetkovej účasti štátu v právnickej osobe a o prechode práv a povinností súvisiacich s predmetom činnosti právnickej osoby sa upravia dohodou medzi doterajším ústredným orgánom štátnej správy a preberajúcim ústredným orgánom štátnej správy.
 >
 > (2) V súvislosti s prechodom kompetencií v oblasti podľa § 40j ods. 1 a § 40q ods. 1 medzi ústrednými orgánmi štátnej správy prechádza i zriaďovateľská a zakladateľská pôsobnosť doterajšieho ústredného orgánu štátnej správy k právnickým osobám na preberajúci ústredný orgán štátnej správy. Zmeny v zriaďovateľskej a zakladateľskej pôsobnosti sa vykonajú na základe tohto zákona podľa osobitných predpisov.6) Podrobnosti o prechode správy majetkovej účasti štátu v právnickej osobe a o prechode práv a povinností súvisiacich s predmetom činnosti právnickej osoby sa upravia dohodou medzi doterajším ústredným orgánom štátnej správy a preberajúcim ústredným orgánom štátnej správy.
@@ -323,7 +323,7 @@ Odsek 1 sa vzťahuje na skupinu piatich prechodov kompetencií (§ 40k ods. 1 �
 
 ### § 40t
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť podpredsedu vlády, ktorý neriadi ministerstvo v oblasti podpory kultúry národnostných menšín podľa doterajších právnych predpisov, prechádza na Úrad vlády Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „podpredseda vlády, ktorý neriadi ministerstvo“ alebo „podpredseda vlády pre ľudské práva a národnostné menšiny“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -334,7 +334,7 @@ Odsek 2 je pozoruhodný tým, že vymedzuje legislatívnu skratku pre dva altern
 
 ### § 40u
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo zahraničných vecí Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky“ v príslušnom gramatickom tvare.
 
 Ustanovenie § 40u nasleduje rovnaký jednoduchý vzor ako § 40g a § 40r – ide výlučne o legislatívnu skratku bez sprievodných ustanovení o prechode práv, povinností alebo majetku, keďže nejde o presun agendy medzi dvoma odlišnými subjektmi, ale o rozšírenie názvu toho istého rezortu. „Ministerstvo zahraničných vecí Slovenskej republiky“ sa premenováva na „Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky“, čím sa v samotnom názve rezortu formálne zvýrazňuje jeho agenda súvisiaca so záležitosťami Európskej únie (ktorá sa navyše podľa § 40p a § 40y v priebehu rokov 2010 a nasl. skutočne rozšírila o koordináciu politík EÚ).
@@ -343,7 +343,7 @@ Táto zmena názvu má symbolický aj praktický význam – symbolický v tom z
 
 ### § 40v
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva dopravy, výstavby a regionálneho rozvoja Slovenskej republiky v oblasti koordinácie využívania finančných prostriedkov z fondov Európskej únie podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad vlády Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -358,7 +358,7 @@ Ustanovenie § 40v dokresľuje ďalšiu kapitolu v putovaní agendy koordinácie
 
 ### § 40w
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva práce, sociálnych vecí a rodiny Slovenskej republiky v oblasti štátnozamestnaneckých vzťahov a právnych vzťahov pri výkone práce vo verejnom záujme podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad vlády Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -371,7 +371,7 @@ Zaujímavým rozlíšením v texte je rozdiel medzi „právnymi vzťahmi pri v�
 
 ### § 40x
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky v oblasti ľudských práv podľa doterajších všeobecne záväzných právnych predpisov okrem poskytovania dotácií prechádza na Ministerstvo spravodlivosti Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa názov "Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky" vo všetkých gramatických tvaroch, rozumie sa tým "Ministerstvo spravodlivosti Slovenskej republiky" v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -382,7 +382,7 @@ Výslovná výnimka pre „poskytovanie dotácií“ v odseku 1 je legislatívno
 
 ### § 40y
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva financií Slovenskej republiky v oblasti koordinácie štátnej pomoci podľa doterajších všeobecne záväzných právnych predpisov prechádza na Protimonopolný úrad Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo financií Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Protimonopolný úrad Slovenskej republiky“ v príslušnom tvare.

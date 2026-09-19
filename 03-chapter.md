@@ -2,7 +2,7 @@
 
 ### § 40z
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva financií Slovenskej republiky v oblasti informatizácie spoločnosti podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo financií Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu“ v príslušnom gramatickom tvare.
@@ -15,7 +15,7 @@ Vecne odsek 1 presúva agendu informatizácie spoločnosti z Ministerstva financ
 
 ### § 40aa
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti koordinácie plnenia úloh v oblasti informatizácie spoločnosti a koordinácie využívania finančných prostriedkov z fondov Európskej únie podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Úrad vlády Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu“ v príslušnom gramatickom tvare.
@@ -28,7 +28,7 @@ Legislatívno-technicky ustanovenie kopíruje štruktúru § 40z – odsek 2 obs
 
 ### § 40ab
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva zahraničných vecí a európskych záležitostí Slovenskej republiky v oblasti poskytovania dotácií v oblasti ľudských práv podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo spravodlivosti Slovenskej republiky; to neplatí pre dotácie poskytnuté do 30. novembra 2016.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo spravodlivosti Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -39,7 +39,7 @@ Odsek 1 obsahuje popri samotnom prechode pôsobnosti aj časovo obmedzenú výni
 
 ### § 40ac
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva dopravy, výstavby a regionálneho rozvoja Slovenskej republiky v oblasti regionálneho rozvoja podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad vlády Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom gramatickom tvare. Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo dopravy, výstavby a regionálneho rozvoja Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým okrem oblasti podľa odseku 1 „Ministerstvo dopravy a výstavby Slovenskej republiky“ v príslušnom gramatickom tvare.
@@ -52,7 +52,7 @@ Táto technika – teda súčasné použitie dvoch legislatívnych skratiek navi
 
 ### § 40ad
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti podpory kultúry národnostných menšín podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo kultúry Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch pre oblasť podľa odseku 1 používa názov „Úrad vlády Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo kultúry Slovenskej republiky“ v príslušnom gramatickom tvare pre oblasť podľa odseku 1.
@@ -65,7 +65,7 @@ Ustanovenie § 40ad presúva agendu podpory kultúry národnostných menšín z 
 
 ### § 40ae
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti regionálneho rozvoja podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Úrad vlády Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu“ v príslušnom gramatickom tvare.
@@ -78,7 +78,7 @@ Legislatívno-technicky ustanovenie plne kopíruje vzor § 40z a § 40aa: odsek 
 
 ### § 40af
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Podpredseda vlády podľa § 1aaa zabezpečuje posúdenie interných analytických a externých konzultačných služieb ekonomického, finančného, právneho a iného obdobného charakteru a zabezpečuje posúdenie interných a externých právnych služieb a právneho zastúpenia obstaraných alebo vykonávaných do nadobudnutia účinnosti tohto zákona dňom vyhlásenia.
 >
 > (2) Ustanovenia § 1aaa a 1b v znení účinnom po nadobudnutím účinnosti tohto zákona dňom vyhlásenia sa nevzťahujú na podpredsedu vlády Slovenskej republiky pre investície a informatizáciu. Ustanovenie § 1b v znení účinnom do nadobudnutia účinnosti tohto zákona dňom vyhlásenia sa vzťahuje na podpredsedu vlády Slovenskej republiky pre investície a informatizáciu.
@@ -89,7 +89,7 @@ Odsek 2 rieši kolíznu otázku vzťahu medzi všeobecnou úpravou postavenia po
 
 ### § 40ag
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Peňažné prostriedky od fyzických osôb alebo právnických osôb, ktoré boli poukázané na samostatný účet fondu vedený v Štátnej pokladnici pred dňom účinnosti tohto zákona, sa považujú za príjem fondu vzájomnej pomoci podľa § 24a.
 
 Ustanovenie § 40ag je jednoodsekovým prechodným ustanovením, ktoré rieši osud peňažných prostriedkov poukázaných fyzickými alebo právnickými osobami na osobitný účet fondu vedený v Štátnej pokladnici ešte predtým, než nadobudla účinnosť novela, ktorou bol zriadený fond vzájomnej pomoci podľa § 24a tohto zákona. Bez tohto ustanovenia by mohla vzniknúť pochybnosť o právnom režime prostriedkov, ktoré fakticky slúžili rovnakému solidárnemu účelu (typicky ide o dobrovoľné príspevky darcov určené na zmiernenie dôsledkov mimoriadnych udalostí) ešte predtým, než zákon výslovne vytvoril právny rámec fondu, do ktorého mali byť tieto prostriedky sústredené.
@@ -98,7 +98,7 @@ Zákonodarca preto fikciou ustanovuje, že takto skôr poukázané prostriedky s
 
 ### § 40ah
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Úrad podpredsedu vlády Slovenskej republiky pre investície a informatizáciu“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky“ v príslušnom tvare.
@@ -113,7 +113,7 @@ Odsek 3 preto na rozdiel od typickej trojkrokovej štruktúry (zamestnanci – m
 
 ### § 40ai
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť ostatných ústredných orgánov štátnej správy uvedených v § 21 písm. b) až j) v oblasti plnenia legislatívnych činností spojených s prípravou, prerokovaním a schvaľovaním ústavných zákonov, zákonov a iných všeobecne záväzných právnych predpisov prechádza na Úrad vlády Slovenskej republiky.
 >
 > (2) V súvislosti s prechodom kompetencie podľa odseku 1 prechádzajú od 1. júla 2020 práva a povinnosti vyplývajúce zo štátnozamestnaneckých vzťahov, z pracovnoprávnych vzťahov, iných právnych vzťahov zamestnancov zabezpečujúcich výkon tejto kompetencie, ako aj práva a povinnosti z iných právnych vzťahov z ostatných ústredných orgánov štátnej správy uvedených v § 21 písm. b) až i) na Úrad vlády Slovenskej republiky. Majetok štátu, ktorý bol k 30. júnu 2020 v správe ostatných ústredných orgánov štátnej správy uvedených v § 21 písm. b) až i) a ktorý slúži na zabezpečenie výkonu kompetencie v oblasti podľa odseku 1, prechádza k 1. júlu 2020 do správy Úradu vlády Slovenskej republiky. Podrobnosti o prechode týchto práv a povinností a o prechode správy majetku štátu sa upravia dohodami medzi ostatnými ústrednými orgánmi štátnej správy uvedenými v § 21 písm. b) až i) a Úradom vlády Slovenskej republiky, v ktorých sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
@@ -128,7 +128,7 @@ Ustanovenie je pozoruhodné nekonzistentnosťou rozsahu odkazu na § 21 medzi je
 
 ### § 40aj
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva spravodlivosti Slovenskej republiky v oblasti zabezpečovania vydávania Zbierky zákonov Slovenskej republiky prechádza na Úrad vlády Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo spravodlivosti Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom tvare.
@@ -141,7 +141,7 @@ Ustanovenie § 40aj presúva s účinnosťou od 1. júla 2020 agendu zabezpečov
 
 ### § 40ak
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva pôdohospodárstva a rozvoja vidieka Slovenskej republiky v oblasti regionálneho rozvoja podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky“ v príslušnom tvare.
@@ -154,7 +154,7 @@ Ustanovenie § 40ak dopĺňa proces konsolidácie agendy regionálneho rozvoja p
 
 ### § 40al
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva dopravy Slovenskej republiky v oblasti územného plánovania, výstavby a vyvlastnenia podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad pre územné plánovanie a výstavbu Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo dopravy a výstavby Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Úrad pre územné plánovanie a výstavbu Slovenskej republiky“ v príslušnom tvare.
@@ -167,7 +167,7 @@ Odsek 2 obsahuje legislatívnu skratku odkazujúcu už na skrátený názov mini
 
 ### § 40am
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Od vymenovania predsedu Úradu pre územné plánovanie a výstavbu Slovenskej republiky vládou do konca kalendárneho mesiaca, v ktorom uplynulo šesť mesiacov od vymenovania predsedu Úradu pre územné plánovanie a výstavbu Slovenskej republiky vládou, Úrad vlády Slovenskej republiky napomáha predsedovi Úradu pre územné plánovanie a výstavbu Slovenskej republiky pri plnení jeho úloh súvisiacich s administratívnym, organizačným, technickým a materiálnym zabezpečením činnosti Úradu pre územné plánovanie a výstavbu Slovenskej republiky.
 
 Ustanovenie § 40am dopĺňa § 40al o osobitné, časovo obmedzené prechodné pravidlo týkajúce sa nábehovej fázy novozriadeného Úradu pre územné plánovanie a výstavbu Slovenskej republiky. Keďže ide o úplne nový orgán bez vlastnej existujúcej administratívnej infraštruktúry (na rozdiel od prípadov, keď agenda prechádza medzi už zabehnutými orgánmi s vlastným aparátom), zákonodarca predpokladal prechodné obdobie, počas ktorého Úrad vlády Slovenskej republiky poskytuje predsedovi nového úradu súčinnosť pri administratívnom, organizačnom, technickom a materiálnom zabezpečení jeho činnosti – teda pri veciach, ktoré nový úrad v prvých mesiacoch svojej existencie ešte nemusí byť schopný zabezpečiť vlastnými silami (napríklad priestory, technické vybavenie, podporné administratívne procesy).
@@ -176,7 +176,7 @@ Doba tejto asistencie je presne vymedzená – začína plynúť od vymenovania 
 
 ### § 40an
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva dopravy Slovenskej republiky v oblasti cestovného ruchu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo cestovného ruchu a športu Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo dopravy Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo cestovného ruchu a športu Slovenskej republiky“ v príslušnom tvare. Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „minister dopravy Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „minister cestovného ruchu a športu Slovenskej republiky“ v príslušnom tvare.
@@ -191,7 +191,7 @@ Odsek 4 dopĺňa dôležitý všeobecný mechanizmus prechodu zriaďovateľskej 
 
 ### § 40ao
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky v oblasti športu podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo cestovného ruchu a športu Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo cestovného ruchu a športu Slovenskej republiky“ v príslušnom tvare. Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „minister školstva, vedy, výskumu a športu Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „minister cestovného ruchu a športu Slovenskej republiky“ v príslušnom tvare. Ak sa v doterajších právnych predpisoch používa pojem „Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým okrem oblasti podľa odseku 1 „Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky“ v príslušnom tvare. Ak sa v doterajších právnych predpisoch používa pojem „minister školstva, vedy, výskumu a športu Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým okrem oblasti podľa odseku 1 „minister školstva, výskumu, vývoja a mládeže Slovenskej republiky“ v príslušnom tvare.
@@ -206,7 +206,7 @@ Táto štvornásobná legislatívna skratka predstavuje najzložitejší prípad
 
 ### § 40ap
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky v oblasti vypracovania národného strategického investičného rámca v pôsobnosti Ministerstva investícií, regionálneho rozvoja a informatizácie Slovenskej republiky a vnútroštátnej implementácie Agendy 2030 prechádza na Úrad vlády Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Úrad vlády Slovenskej republiky“ v príslušnom tvare.
@@ -219,7 +219,7 @@ Formulácia odseku 1 je čiastočne redundantná – slovné spojenie „v pôso
 
 ### § 40aq
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti zabezpečovania vydávania Zbierky zákonov Slovenskej republiky prechádza na Ministerstvo spravodlivosti Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Úrad vlády Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Ministerstvo spravodlivosti Slovenskej republiky“ v príslušnom tvare.
@@ -232,7 +232,7 @@ Z legislatívno-technického hľadiska je zaujímavé porovnanie textu § 40aq s
 
 ### § 40ar
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Pôsobnosť Úradu vlády Slovenskej republiky zabezpečovať pre ostatné ústredné orgány štátnej správy uvedené v § 21 písm. b) až f) a h) až j) úlohy v oblasti plnenia legislatívnych činností spojených s prípravou, prerokovaním a schvaľovaním ústavných zákonov, zákonov a iných všeobecne záväzných právnych predpisov prechádza na ostatné ústredné orgány štátnej správy uvedené v § 21 písm. b) až f) a h) až j).
 
 Ustanovenie § 40ar predstavuje čiastočnú deregulačnú korekciu centralizácie legislatívnej agendy zavedenej v § 40ai – tá časť centrálne zabezpečovanej legislatívnej činnosti (príprava, prerokovanie a schvaľovanie ústavných zákonov, zákonov a iných všeobecne záväzných právnych predpisov), ktorú Úrad vlády Slovenskej republiky doteraz zabezpečoval pre ostatné ústredné orgány štátnej správy uvedené v § 21 písm. b) až f) a h) až j), sa vracia späť na tieto jednotlivé orgány. Zo znenia vyplýva, že z rozsahu tohto „vrátenia" je vyňaté písmeno g) v § 21 (t. j. jeden konkrétny ústredný orgán, pre ktorý Úrad vlády túto úlohu zjavne naďalej zabezpečuje, keďže rozsah „b) až f) a h) až j)" ho preskakuje) – ide teda o čiastočnú, nie úplnú decentralizáciu predtým sústredenej legislatívnej agendy.
@@ -241,7 +241,7 @@ Jednoodsekové ustanovenie bez akéhokoľvek dátumu účinnosti alebo prechodn�
 
 ### § 40as
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Pôsobnosť Úradu vlády Slovenskej republiky zabezpečovať pre Úrad pre verejné obstarávanie úlohy v oblasti plnenia legislatívnych činností spojených s prípravou, prerokovaním a schvaľovaním ústavných zákonov, zákonov a iných všeobecne záväzných právnych predpisov prechádza na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky.
 
 Ustanovenie § 40as rieši osobitný prípad legislatívnej podpory poskytovanej Úradu pre verejné obstarávanie, ktorý ako samostatný ústredný orgán štátnej správy nie je vymenovaný medzi orgánmi uvedenými v § 21 (a teda naň sa nevzťahuje ani centralizácia podľa § 40ai, ani jej čiastočné vrátenie podľa § 40ar). Namiesto vrátenia legislatívnej podpory priamo Úradu pre verejné obstarávanie (ako pri orgánoch podľa § 40ar) zákonodarca zveruje túto úlohu Ministerstvu investícií, regionálneho rozvoja a informatizácie Slovenskej republiky – teda rezortu, ktorý má vecnú blízkosť k agende verejného obstarávania (najmä pokiaľ ide o centralizované obstarávanie a elektronickú platformu verejného obstarávania spomínanú neskôr v § 40ay ods. 1).
@@ -250,7 +250,7 @@ Ustanovenie je opäť jednoodsekové a neobsahuje dátum účinnosti ani prechod
 
 ### § 40at
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Pôsobnosť Úradu vlády Slovenskej republiky zabezpečovať pre Úrad pre územné plánovanie a výstavbu Slovenskej republiky úlohy v oblasti plnenia legislatívnych činností spojených s prípravou, prerokovaním a schvaľovaním ústavných zákonov, zákonov a iných všeobecne záväzných právnych predpisov prechádza na Ministerstvo dopravy Slovenskej republiky.
 
 Ustanovenie § 40at dopĺňa dvojicu § 40as tým, že rieši obdobnú situáciu vo vzťahu k ďalšiemu novovytvorenému orgánu mimo systematiky § 21 – Úradu pre územné plánovanie a výstavbu Slovenskej republiky (vzniknutému podľa § 40al). Legislatívnu podporu, ktorú tomuto úradu doteraz zabezpečoval Úrad vlády Slovenskej republiky, preberá Ministerstvo dopravy Slovenskej republiky – teda rezort, z ktorého agenda územného plánovania, výstavby a vyvlastnenia pôvodne vzišla (§ 40al ods. 1) a ktorý si tak zachováva určitú metodickú väzbu na novovytvorený špecializovaný úrad aj po odčlenení jeho vecnej pôsobnosti.
@@ -259,7 +259,7 @@ Voľba Ministerstva dopravy (namiesto napríklad ponechania legislatívnej podpo
 
 ### § 40au
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Štátnozamestnanecké miesta, vytvorené na Úrade vlády Slovenskej republiky na zabezpečenie koordinácie a tvorby štátnej politiky v oblasti ochrany osobných údajov vrátane práv a povinností vyplývajúcich zo štátnozamestnaneckých vzťahov dotknutých štátnych zamestnancov prechádzajú od 1. februára 2024 na Ministerstvo spravodlivosti Slovenskej republiky. Majetok štátu, ktorý bol do 31. januára 2024 v správe Úradu vlády Slovenskej republiky a ktorý slúži na zabezpečenie koordinácie a tvorby štátnej politiky v oblasti ochrany osobných údajov, prechádza od 1. februára 2024 do správy Ministerstva spravodlivosti Slovenskej republiky. Podrobnosti o prechode práv a povinností zo štátnozamestnaneckých vzťahov a o prechode správy majetku štátu sa upravia dohodou medzi Úradom vlády Slovenskej republiky a Ministerstvom spravodlivosti Slovenskej republiky, v ktorej sa vymedzí najmä druh a rozsah preberaného majetku, práv a povinností.
 
 Ustanovenie § 40au sa svojou formuláciou mierne odlišuje od väčšiny predchádzajúcich paragrafov – namiesto prechodu „pôsobnosti" v zmysle vecnej kompetencie hovorí o prechode konkrétnych „štátnozamestnaneckých miest" vytvorených na Úrade vlády Slovenskej republiky na zabezpečenie koordinácie a tvorby štátnej politiky v oblasti ochrany osobných údajov. Tento rozdiel v terminológii nie je náhodný: ochrana osobných údajov ako taká nepatrí do všeobecnej organizačnej pôsobnosti Úradu vlády (dohľad nad ochranou osobných údajov vykonáva samostatný nezávislý orgán – Úrad na ochranu osobných údajov Slovenskej republiky), Úrad vlády v tejto oblasti vykonával len koordinačnú a politikotvornú funkciu prostredníctvom konkrétnych systemizovaných miest, preto zákon namiesto abstraktného prechodu „pôsobnosti v oblasti" upravuje konkrétnejší prechod personálneho a majetkového substrátu viazaného na tieto miesta.
@@ -268,7 +268,7 @@ Absencia úvodnej legislatívnej skratky (na rozdiel od predchádzajúcich parag
 
 ### § 40av
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dňom 1. februára 2024 sa zrušuje fond vzájomnej pomoci na účel zmiernenia negatívnych následkov šírenia nebezpečnej nákazlivej ľudskej choroby COVID-19 a na zmiernenie humanitárnej krízy v súvislosti s priamou vojenskou inváziou Ruskej federácie na zvrchovanom území Ukrajiny; zostatok tohto fondu k 31. januáru 2024 je príjmom štátneho rozpočtu.
 
 Ustanovenie § 40av zrušuje ku dňu 1. februára 2024 fond vzájomnej pomoci zriadený podľa § 24a tohto zákona, ktorého príjmovú stránku dopĺňalo aj prechodné ustanovenie § 40ag. Fond bol pôvodne zriadený na dvojaký účel – zmiernenie negatívnych následkov pandémie ochorenia COVID-19 a zmiernenie humanitárnej krízy súvisiacej s priamou vojenskou inváziou Ruskej federácie na Ukrajinu; oba tieto účely mali povahu mimoriadnych, časovo ohraničených krízových nástrojov solidárneho financovania, viazaných na konkrétne mimoriadne okolnosti, ktoré sa postupom času a stabilizáciou situácie (ústup akútnej fázy pandémie, etablovanie systematickejších nástrojov pomoci Ukrajine na národnej aj európskej úrovni) stali menej aktuálnymi ako v čase vzniku fondu.
@@ -277,7 +277,7 @@ Zrušenie fondu je sprevádzané jednoduchým a legislatívne štandardným mech
 
 ### § 40aw
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak sa v doterajších právnych predpisoch používa pre oblasť národnostných menšín pojem „Rada vlády pre ľudské práva, národnostné menšiny a rodovú rovnosť“ vo všetkých tvaroch, rozumie sa tým „Rada vlády Slovenskej republiky pre národnostné menšiny“.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť ľudských práv a rodovej rovnosti pojem „Rada vlády pre ľudské práva, národnostné menšiny a rodovú rovnosť“ vo všetkých tvaroch, rozumie sa tým „Rada vlády Slovenskej republiky pre ľudské práva a rodovú rovnosť“.
@@ -288,7 +288,7 @@ Rozdelenie pôvodne jednotnej rady na dve špecializovanejšie platformy odráž
 
 ### § 40ax
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Ministerstva dopravy Slovenskej republiky v oblasti tvorby a uskutočňovania politiky mestského rozvoja podľa doterajších všeobecne záväzných právnych predpisov prechádza na Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Ministerstvo dopravy Slovenskej republiky“ vo všetkých gramatických tvaroch, rozumie sa tým „Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky“ v príslušnom gramatickom tvare.
@@ -301,7 +301,7 @@ Ustanovenie § 40ax presúva s účinnosťou od 1. septembra 2024 agendu tvorby 
 
 ### § 40ay
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pôsobnosť Úradu vlády Slovenskej republiky v oblasti koordinácie a riadenia Plánu obnovy a odolnosti Slovenskej republiky a riadenia mechanizmu na podporu obnovy a odolnosti, v oblasti koordinácie a riadenia Sociálno-klimatického fondu, v oblasti vnútroštátnej implementácie Agendy 2030, v oblasti prispievania k dlhodobej stabilite investičného prostredia na Slovensku prostredníctvom vypracovania Národného investičného plánu, v oblasti strategickej a metodickej koordinácie v oblasti výskumu, vývoja a inovácií, v oblasti vykonávania posudzovania strategických iniciatív Európskej únie smerujúcich k budovaniu odolnosti Slovenskej republiky, ktorých vykonávanie vyžaduje zapojenie najmenej dvoch ústredných orgánov štátnej správy, v oblasti riadenia a koordinácie opatrení na tvorbu a uskutočňovanie talentovej politiky, v oblasti koordinácie a riadenia aktivít súvisiacich s obnovou Ukrajiny a jej integráciou do Európskej únie vrátane vytvárania a prepájania príslušných finančných nástrojov na európskej a národnej úrovni a v oblasti správy elektronickej platformy pre verejné obstarávanie a zabezpečovania centralizovaných činností vo verejnom obstarávaní v rozsahu podľa osobitného predpisu2b) podľa doterajších všeobecne záväzných právnych predpisov prechádza na Úrad podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku.
 >
 > (2) Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „Úrad vlády Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „Úrad podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku“ v príslušnom tvare. Ak sa v doterajších právnych predpisoch používa pre oblasť podľa odseku 1 pojem „vedúci Úradu vlády Slovenskej republiky“ vo všetkých tvaroch, rozumie sa tým „vedúci Úradu podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku“ v príslušnom tvare.
@@ -314,7 +314,7 @@ Odsek 2 obsahuje dvojicu legislatívnych skratiek – analogicky k § 40an rieš
 
 ### § 40az
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Štátny tajomník podpredsedu vlády, ktorý neriadi ministerstvo vymenovaný pred 1. januárom 2025 je štátnym tajomníkom podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku.
 
 Ustanovenie § 40az uzatvára sériu prechodných ustanovení spojených so vznikom Úradu podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku (§ 40ay) osobitným personálnym prechodným pravidlom. Rieši situáciu štátneho tajomníka, ktorý bol vymenovaný ešte pred 1. januárom 2025 vo funkcii štátneho tajomníka podpredsedu vlády, ktorý neriadi ministerstvo (teda podpredsedu vlády vo všeobecnej funkcii bez vlastného rezortu, na rozdiel od podpredsedu vlády, ktorý je súčasne ministrom) – takýto už vymenovaný štátny tajomník sa zákonnou fikciou považuje za štátneho tajomníka novo pomenovanej funkcie podpredsedu vlády pre Plán obnovy a znalostnú ekonomiku, bez potreby jeho opätovného vymenúvania.
@@ -323,7 +323,7 @@ Ustanovenie § 40az uzatvára sériu prechodných ustanovení spojených so vzni
 
 ### § 41
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušovacie ustanovenie
 >
 > Zrušuje sa zákon Slovenskej národnej rady č. 347/1990 Zb. o organizácii ministerstiev a ostatných ústredných orgánov štátnej správy Slovenskej republiky v znení zákona Slovenskej národnej rady č. 197/1991 Zb., zákona Slovenskej národnej rady č. 298/1991 Zb., zákona Slovenskej národnej rady č. 494/1991 Zb., zákona Slovenskej národnej rady č. 294/1992 Zb., zákona Slovenskej národnej rady č. 322/1992 Zb., zákona Slovenskej národnej rady č. 453/1992 Zb., zákona Národnej rady Slovenskej republiky č. 2/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 61/1993 Z. z., zákona Národnej rady Slovenskej republiky č. 83/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 74/1995 Z. z., zákona Národnej rady Slovenskej republiky č. 207/1995 Z. z., zákona č. 58/1998 Z. z., zákona č. 143/1998 Z. z., zákona č. 200/1998 Z. z., zákona č. 337/1998 Z. z., zákona č. 263/1999 Z. z., zákona č. 293/1999 Z. z., zákona č. 95/2000 Z. z., zákona č. 195/2000 Z. z., zákona č. 329/2000 Z. z., zákona č. 338/2000 Z. z., zákona č. 417/2000 Z. z., zákona č. 136/2001 a zákona č. 241/2001.
@@ -334,7 +334,7 @@ Rozsiahly výpočet noviel, ktorými bol zrušovaný zákon v priebehu svojej vy
 
 ### § 41a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ustanovenie § 39 ods. 2 písm. b) sa v roku 2003 nepoužije. Limity počtov zamestnancov ministerstiev a ostatných ústredných orgánov štátnej správy vrátane štátnych zamestnancov3) schvaľuje na rok 2003 vláda.
 
 Ustanovenie § 41a predstavuje časovo obmedzenú výnimku z aplikácie § 39 ods. 2 písm. b) tohto zákona, ktorý inak zveruje vláde schvaľovanie limitov počtov zamestnancov ministerstiev a ostatných ústredných orgánov štátnej správy. Na prvý pohľad ide o paradoxné ustanovenie – veta „ustanovenie sa v roku 2003 nepoužije" je bezprostredne nasledovaná vetou, ktorá v podstate obsahovo totožnú vec (schvaľovanie limitov počtov zamestnancov vládou na rok 2003) znovu ustanovuje, avšak s výslovným rozšírením rozsahu aj na štátnych zamestnancov (odkazom na poznámku pod čiarou 3, teda na osobitný predpis o štátnej službe).
@@ -343,7 +343,7 @@ Vysvetlenie tohto zdanlivého paradoxu spočíva v tom, že § 39 ods. 2 písm. 
 
 ### § 41b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušuje sa zákon č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve (zákon o tripartite).
 
 Ustanovenie § 41b obsahuje ďalšie samostatné derogačné pravidlo, ktorým sa zrušuje zákon č. 106/1999 Z. z. o hospodárskom a sociálnom partnerstve, všeobecne označovaný ako „zákon o tripartite" (tento hovorový názov zákon výslovne uvádza priamo v zátvorke vlastného textu, čo je v slovenskej legislatívnej praxi neobvyklé, no napomáha jednoznačnej identifikácii rušeného predpisu v praxi). Zákon o tripartite upravoval inštitucionalizovaný mechanizmus trojstranných rokovaní medzi vládou, zástupcami zamestnávateľov a zástupcami zamestnancov (odborov) o zásadných otázkach hospodárskej a sociálnej politiky štátu.
@@ -352,7 +352,7 @@ Zaradenie tohto zrušovacieho ustanovenia práve do kompetenčného zákona (nam
 
 ### § 42
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účinnosť
 >
 > Tento zákon nadobúda účinnosť 1. januára 2002. Ustanovenia § 5 ods. 6 a § 40 ods. 5 až 9 strácajú účinnosť 31. marca 2002.

@@ -2,7 +2,7 @@
 
 ### § 1
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Činnosť vlády Slovenskej republiky
 >
 > (1) Činnosť vlády Slovenskej republiky (ďalej len „vláda“) riadi predseda vlády, ktorý zvoláva a vedie jej schôdze.
@@ -21,7 +21,7 @@ Odsek 3 rieši zastupovanie predsedu vlády pri jeho neprítomnosti – ide o do
 
 ### § 1a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Schôdze vlády sú neverejné. Tým nie je dotknutá povinnosť vlády zverejňovať texty materiálov podľa osobitného predpisu.1) Schôdze vlády môžu prebiehať aj s využitím technického prostriedku na prenos obrazu a zvuku.
 
 Ustanovenie kodifikuje zásadu neverejnosti rokovania vlády – schôdze vlády nie sú prístupné verejnosti ani médiám, čo zodpovedá logike kolektívneho výkonného orgánu, ktorý potrebuje priestor na slobodnú diskusiu, konfrontáciu stanovísk a hľadanie kompromisu bez tlaku bezprostrednej mediálnej publicity. Neverejnosť schôdze sa však netýka výsledkov rokovania – zákon výslovne zachováva povinnosť zverejňovať texty prerokúvaných materiálov podľa osobitného predpisu (typicky ide o zákon o slobode informácií a súvisiace predpisy o transparentnosti legislatívneho procesu), čím sa vytvára rovnováha medzi efektívnosťou rozhodovacieho procesu a verejnou kontrolou obsahu, ktorý sa vláde predkladá.
@@ -30,7 +30,7 @@ Tretia veta bola do zákona doplnená s cieľom reflektovať technologický výv
 
 ### § 1aa
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vláda rozhoduje spravidla formou uznesenia vlády; uznesenie vlády nepodlieha preskúmaniu súdom,1aa) ak osobitný predpis neustanovuje inak.1aaa)
 
 Toto ustanovenie zakotvuje štandardnú formu rozhodovania vlády – uznesenie vlády. Slovo „spravidla“ naznačuje, že ide o pravidlo s možnými výnimkami (napríklad rozhodnutia prijímané v inej forme na základe osobitných predpisov), no v prevažnej väčšine prípadov je uznesenie jediným formálnym výstupom rokovania vlády, ktorým vláda schvaľuje materiály, ukladá úlohy členom vlády, prijíma stanoviská alebo rozhoduje o personálnych a organizačných otázkach v rámci svojej pôsobnosti.
@@ -39,7 +39,7 @@ Kľúčový právny význam má druhá časť ustanovenia – vylúčenie uznese
 
 ### § 1b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úlohy spojené s odborným, organizačným a technickým zabezpečovaním činnosti vlády plní Úrad vlády Slovenskej republiky; rovnaké úlohy plní Úrad vlády Slovenskej republiky aj pre predsedu vlády ako jeho výkonný orgán.
 
 Ustanovenie zakladá servisnú (aparátovú) funkciu Úradu vlády Slovenskej republiky vo vzťahu k vláde ako kolektívnemu orgánu, ako aj vo vzťahu k predsedovi vlády ako jej štatutárnemu predstaviteľovi. Úrad vlády teda nie je ústredným orgánom štátnej správy v zmysle vecnej pôsobnosti nad určitou oblasťou spoločenských vzťahov (hoci takéto postavenie získava aj samostatne podľa § 24), ale predovšetkým zabezpečuje odbornú prípravu materiálov na rokovanie vlády, organizačnú stránku schôdzí (zvolávanie, evidenciu, zápisnice, distribúciu materiálov) a technické zázemie (vrátane technických prostriedkov na prenos obrazu a zvuku podľa § 1a).
@@ -48,7 +48,7 @@ Druhá časť vety explicitne postavuje Úrad vlády do pozície výkonného org
 
 ### § 2
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Poradné orgány vlády
 >
 > (1) Na plnenie konkrétnych úloh môže vláda vymenúvať a odvolávať svojich splnomocnencov. Rozsah oprávnenia splnomocnenca určí vláda pri jeho vymenovaní. Vláda môže rozhodnúť, že splnomocnenec bude vykonávať funkciu bez nároku na odmenu. Splnomocnenec podľa tretej vety môže plniť úlohy vedúceho zamestnanca podľa osobitného predpisu.1ab)
@@ -77,7 +77,7 @@ Odseky 3 až 9 upravujú druhý typ pomocného orgánu – poradné orgány vlá
 
 ### § 3
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvá
 >
 > V Slovenskej republike pôsobia tieto ministerstvá, na ktorých čele je člen vlády:
@@ -104,7 +104,7 @@ Spoločným znakom všetkých ministerstiev je, že na ich čele stojí člen vl
 
 ### § 4
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Organizácia ministerstva
 >
 > (1) Ministerstvo riadi a za jeho činnosť zodpovedá minister.
@@ -125,7 +125,7 @@ Odsek 4 dáva ministrovi analogické oprávnenie k tomu, aké má vláda podľa 
 
 ### § 5
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ministerstvo sa člení na sekcie a odbory, prípadne iné organizačné útvary.
 >
 > (2) Sekcie sa zriaďujú najmä pre jednotlivé úseky činnosti ministerstva. Sekciu riadi generálny riaditeľ.
@@ -146,7 +146,7 @@ Kľúčovým normatívnym nástrojom celého paragrafu je organizačný poriadok
 
 ### § 6
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo hospodárstva Slovenskej republiky
 >
 > (1) Ministerstvo hospodárstva Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -181,7 +181,7 @@ Odsek 2 zakladá osobitné inštitucionálne prepojenie – minister hospodárst
 
 ### § 7
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo financií Slovenskej republiky
 >
 > (1) Ministerstvo financií Slovenskej republiky je ústredným orgánom štátnej správy pre oblasť financií, daní a poplatkov, colníctva, hazardných hier, finančnej kontroly, vnútorného auditu a vládneho auditu. Ministerstvo financií Slovenskej republiky je aj ústredným orgánom štátnej správy pre oblasť cien a cenovej kontroly s výnimkou cien a cenovej kontroly tovarov ustanovených osobitnými zákonmi.
@@ -198,7 +198,7 @@ Odsek 2 rozvádza túto pôsobnosť do troch skupín úloh. Písmeno a) zahŕňa
 
 ### § 8
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo dopravy Slovenskej republiky
 >
 > (1) Ministerstvo dopravy Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -231,7 +231,7 @@ Odsek 3 rieši legislatívno-technický vzťah medzi ministerstvom dopravy a nov
 
 ### § 9
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky
 >
 > (1) Ministerstvo pôdohospodárstva a rozvoja vidieka Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -257,7 +257,7 @@ Odsek 2 dopĺňa vecnú pôsobnosť o všeobecnejšiu, prierezovú úlohu rozvoj
 
 ### § 10
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky
 >
 > (1) Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -276,7 +276,7 @@ Odsek 2 obsahuje legislatívno-technickú výnimku obdobnú § 8 ods. 3 – keď
 
 ### § 11
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo vnútra Slovenskej republiky
 >
 > Ministerstvo vnútra Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -297,7 +297,7 @@ Písmeno c) formálne priraďuje ministerstvu vnútra dva ozbrojené zbory – P
 
 ### § 12
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo obrany Slovenskej republiky
 >
 > (1) Ministerstvo obrany Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -319,7 +319,7 @@ Odsek 2 dopĺňa pôsobnosť o správu vojenských obvodov a vojenských lesov �
 
 ### § 13
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo spravodlivosti Slovenskej republiky
 >
 > (1) Ministerstvo spravodlivosti Slovenskej republiky je ústredným orgánom štátnej správy pre súdy a väzenstvo.
@@ -352,7 +352,7 @@ Odseky 7 a 8 upravujú medzinárodnoprávne zastupiteľské funkcie ministerstva
 
 ### § 14
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky
 >
 > (1) Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky je ústredným orgánom štátnej správy pre oblasť zahraničnej politiky a vzťahy Slovenskej republiky k ostatným štátom, medzinárodným organizáciám a zoskupeniam a európskym inštitúciám.
@@ -375,7 +375,7 @@ Odsek 2 rozvádza túto všeobecnú pôsobnosť do deviatich konkrétnych úloh.
 
 ### § 15
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky
 >
 > (1) Ministerstvo práce, sociálnych vecí a rodiny Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -400,7 +400,7 @@ Odsek 2 dopĺňa vecnú pôsobnosť o výkon štátneho dozoru nad sociálnym po
 
 ### § 16
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo životného prostredia Slovenskej republiky
 >
 > Ministerstvo životného prostredia Slovenskej republiky je ústredným orgánom štátnej správy pre tvorbu a ochranu životného prostredia vrátane
@@ -422,7 +422,7 @@ Písmeno d) zveruje ministerstvu ekologické aspekty územného plánovania – 
 
 ### § 17
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky
 >
 > Ministerstvo školstva, výskumu, vývoja a mládeže Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -439,7 +439,7 @@ Súčasný názov ministerstva – rozšírený oproti pôvodnému „ministerst
 
 ### § 18
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo kultúry Slovenskej republiky
 >
 > (1) Ministerstvo kultúry Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -462,7 +462,7 @@ Odsek 2 dopĺňa vecnú pôsobnosť o metodické riadenie slovenských kultúrny
 
 ### § 19
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo zdravotníctva Slovenskej republiky
 >
 > (1) Ministerstvo zdravotníctva Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -488,7 +488,7 @@ Odseky 2 a 3 predstavujú novšie doplnenie zákona reagujúce na potrebu centr�
 
 ### § 20
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvo cestovného ruchu a športu Slovenskej republiky
 >
 > Ministerstvo cestovného ruchu a športu Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -502,7 +502,7 @@ Ministerstvo cestovného ruchu a športu je najmladším a súčasne vecne naju�
 
 ### § 21
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ostatné ústredné orgány štátnej správy
 >
 > (1) V Slovenskej republike pôsobia aj tieto ústredné orgány štátnej správy:
@@ -530,7 +530,7 @@ Odsek 2 rozširuje kategóriu ostatných ústredných orgánov štátnej správy
 
 ### § 22
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Organizácia ostatných ústredných orgánov štátnej správy
 >
 > (1) Na čele Úradu vlády Slovenskej republiky je vedúci, ktorý je za výkon svojej funkcie zodpovedný predsedovi vlády. Vedúceho Úradu vlády Slovenskej republiky vymenúva a odvoláva vláda.
@@ -563,7 +563,7 @@ Odseky 8 až 10 riešia zastupovanie vedúcich predstaviteľov týchto orgánov 
 
 ### § 23
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Na členenie ústredného orgánu štátnej správy sa primerane použije § 5.
 >
 > (2) Organizačnú štruktúru ústredného orgánu štátnej správy určuje organizačný poriadok, ktorý vydáva vedúci, predseda alebo riaditeľ príslušného ústredného orgánu štátnej správy.
@@ -574,7 +574,7 @@ Odsek 2 potom prenáša normotvornú právomoc určiť konkrétnu organizačnú 
 
 ### § 24
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad vlády Slovenskej republiky
 >
 > (1) Úrad vlády Slovenskej republiky okrem plnenia úloh uvedených v § 1b je ústredným orgánom štátnej správy pre
@@ -601,7 +601,7 @@ Odseky 2 až 4 dopĺňajú pôsobnosť úradu o kontrolu plnenia programového v
 
 ### § 25
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Protimonopolný úrad Slovenskej republiky
 >
 > Protimonopolný úrad Slovenskej republiky je ústredným orgánom štátnej správy na ochranu a podporu hospodárskej súťaže.
@@ -612,7 +612,7 @@ Zvýšená miera nezávislosti tohto úradu od vlády – vyjadrená už v § 22
 
 ### § 26
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Štatistický úrad Slovenskej republiky
 >
 > Štatistický úrad Slovenskej republiky je ústredným orgánom štátnej správy pre oblasť štátnej štatistiky.
@@ -623,7 +623,7 @@ Rovnako ako pri Protimonopolnom úrade ide o stručné ustanovenie, ktorého pod
 
 ### § 28
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad geodézie, kartografie a katastra Slovenskej republiky
 >
 > Úrad geodézie, kartografie a katastra Slovenskej republiky je ústredným orgánom štátnej správy pre geodéziu, kartografiu a kataster nehnuteľností.
@@ -634,7 +634,7 @@ Poznámka k číslovaniu: zákon neobsahuje § 27 – ide o dôsledok legislatí
 
 ### § 29
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad jadrového dozoru Slovenskej republiky
 >
 > (1) Úrad jadrového dozoru Slovenskej republiky je ústredným orgánom štátnej správy pre oblasť jadrového dozoru.
@@ -647,7 +647,7 @@ Odsek 2 podrobne rozvádza obsah tohto dozoru – jadrovú bezpečnosť jadrový
 
 ### § 30
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky
 >
 > (1) Úrad pre normalizáciu, metrológiu a skúšobníctvo Slovenskej republiky je ústredným orgánom štátnej správy pre oblasť technickej normalizácie, metrológie, kvality, posudzovania zhody, vzájomného uznávania tovaru, odstraňovania prekážok voľného pohybu tovaru a akreditácie orgánov posudzovania zhody.
@@ -660,7 +660,7 @@ Praktický význam tohto úradu je značný, hoci menej viditeľný než pri in�
 
 ### § 31
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad pre verejné obstarávanie
 >
 > Úrad pre verejné obstarávanie je ústredným orgánom štátnej správy pre verejné obstarávanie.
@@ -671,7 +671,7 @@ Legislatívnu prípravu predpisov v pôsobnosti úradu pritom nezabezpečuje sam
 
 ### § 32
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad priemyselného vlastníctva Slovenskej republiky
 >
 > (1) Úrad priemyselného vlastníctva Slovenskej republiky je ústredným orgánom štátnej správy pre oblasť priemyselného vlastníctva.
@@ -686,7 +686,7 @@ Odsek 3 dopĺňa pôsobnosť o informačnú funkciu úradu – vedenie ústredn�
 
 ### § 33
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Správa štátnych hmotných rezerv Slovenskej republiky
 >
 > Správa štátnych hmotných rezerv Slovenskej republiky je ústredným orgánom štátnej správy pre štátne hmotné rezervy a pre koordináciu a metodické usmerňovanie opatrení na riešenie stavu ropnej núdze.
@@ -697,7 +697,7 @@ Táto agenda úzko súvisí s energetickou politikou ministerstva hospodárstva 
 
 ### § 34
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Národný bezpečnostný úrad
 >
 > Národný bezpečnostný úrad je ústredným orgánom štátnej správy na ochranu utajovaných skutočností, šifrovú službu, kybernetickú bezpečnosť a dôveryhodné služby.
@@ -708,7 +708,7 @@ Vzhľadom na citlivosť tejto agendy zákon v § 22 ods. 3 zveruje voľbu a odvo
 
 ### § 34a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad pre územné plánovanie a výstavbu Slovenskej republiky
 >
 > Úrad pre územné plánovanie a výstavbu Slovenskej republiky je ústredným orgánom štátnej správy pre
@@ -723,7 +723,7 @@ Väzba tohto úradu na ministerstvo dopravy zostáva zachovaná v legislatívno-
 
 ### § 34b
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Úrad podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku
 >
 > (1) Úrad podpredsedu vlády Slovenskej republiky pre Plán obnovy a znalostnú ekonomiku je ústredným orgánom štátnej správy pre
@@ -754,7 +754,7 @@ Odsek 8 napokon dopĺňa túto rozsiahlu vecnú pôsobnosť o klasickú aparáto
 
 ### § 35
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > ŠTVRTÁ ČASŤ
 > SPOLOČNÉ USTANOVENIA
 > Úlohy ministerstiev a ostatných ústredných orgánov štátnej správy
@@ -783,7 +783,7 @@ Odseky 6 a 7 dopĺňajú túto európsku agendu o všeobecnú zodpovednosť za r
 
 ### § 36
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvá a ostatné ústredné orgány štátnej správy skúmajú problematiku vo veciach, ktoré sú v ich pôsobnosti, a analyzujú dosahované výsledky. Robia opatrenia na riešenie aktuálnych otázok a spracúvajú koncepcie rozvoja zverených oblastí a riešenia základných otázok, ktoré po zverejnení a po pripomienkovom konaní predkladajú vláde. V prípadoch ustanovených zákonom alebo na základe rozhodnutia vlády sa pripomienkové konanie nemusí uskutočniť.
 
 Ustanovenie zakotvuje analyticko-koncepčnú funkciu ministerstiev a ostatných ústredných orgánov štátnej správy, ktorá dopĺňa ich výkonnú (exekutívnu) funkciu podľa § 35 ods. 2 o povinnosť aktívne skúmať problematiku vo vlastnej vecnej pôsobnosti, vyhodnocovať dosahované výsledky a na tomto základe pripravovať opatrenia a koncepcie rozvoja danej oblasti. Ide teda o zákonné zakotvenie požiadavky na dôkazmi podložené (evidence-based) formovanie verejných politík, nie len o pasívny výkon existujúcich právnych predpisov.
@@ -792,7 +792,7 @@ Druhá veta stanovuje procesný postup pri predkladaní koncepčných materiálo
 
 ### § 37
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ministerstvá a ostatné ústredné orgány štátnej správy sa starajú o náležitú právnu úpravu vecí patriacich do ich pôsobnosti. Pripravujú návrhy zákonov a iných všeobecne záväzných právnych predpisov, zverejňujú ich a po prerokovaní v pripomienkovom konaní predkladajú vláde; dbajú aj o dodržiavanie zákonnosti v oblasti svojej pôsobnosti.
 
 Toto ustanovenie zakotvuje legislatívnu (normotvornú) funkciu ministerstiev a ostatných ústredných orgánov štátnej správy ako jednu z ich základných úloh – ide o funkciu tzv. legislatívneho gestora, teda orgánu zodpovedného za náležitý (aktuálny, vnútorne konzistentný a s ostatnou legislatívou zosúladený) stav právnej úpravy vo svojej vecnej oblasti. Práve na toto všeobecné ustanovenie odkazujú viaceré osobitné výnimky roztrúsené v predchádzajúcich paragrafoch – § 8 ods. 3 vylučuje jeho použitie pri agende Úradu pre územné plánovanie a výstavbu (kde legislatívu pripravuje namiesto neho ministerstvo dopravy), § 10 ods. 2 stanovuje jeho primerané použitie pri agende Úradu pre verejné obstarávanie (kde legislatívu pripravuje ministerstvo investícií) a § 21 ods. 2 vylučuje jeho použitie pri Úrade pre reguláciu sieťových odvetví a Slovenskej informačnej službe. Tieto výnimky spoločne ukazujú, že nie každý ústredný orgán štátnej správy disponuje vlastnou legislatívnou kapacitou – pri niektorých orgánoch (najmä tých vzniknutých vyňatím z pôvodne širšej pôsobnosti ministerstva, alebo pri orgánoch s citlivým, utajovaným charakterom činnosti) zákonodarca zámerne ponecháva legislatívnu prípravu pri väčšom, kapacitne vybavenejšom rezorte alebo ju z dôvodu osobitnej povahy činnosti orgánu vylučuje z bežného legislatívneho procesu.
@@ -801,7 +801,7 @@ Rovnako ako pri § 36 sa aj tu vyžaduje zverejnenie návrhu a jeho prerokovanie
 
 ### § 38
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ministerstvá a ostatné ústredné orgány štátnej správy pri plnení svojich úloh úzko spolupracujú. Vymieňajú si potrebné informácie a podklady a prerokúvajú s inými ministerstvami opatrenia, ktoré sa ich dotýkajú.
 >
 > (2) Ministerstvá a ostatné ústredné orgány štátnej správy využívajú podnety a skúsenosti orgánov verejnej moci, ako aj podnety verejnosti.
